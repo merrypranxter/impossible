@@ -1,0 +1,182 @@
+[
+  {
+    "id": "folded_vestibule",
+    "title": "Folded Vestibule",
+    "math_trick": "absolute-value space folding",
+    "wrong_physics": "walls mirror-position themselves before the ray arrives",
+    "shader_room_index": 0,
+    "mood": "first threshold, a lobby that has already reflected you",
+    "palette": "electric pink / bruise purple / cyan wet glass / hot white edge-light",
+    "tags": [
+      "fold",
+      "repeat",
+      "liminal",
+      "mirror-space"
+    ]
+  },
+  {
+    "id": "twist_stairwell",
+    "title": "Twist Stairwell",
+    "math_trick": "height-dependent rotation twist",
+    "wrong_physics": "stairs torque around the viewer as if gravity has a barber pole fetish",
+    "shader_room_index": 1,
+    "mood": "a stairwell whose banister remembers being a tornado",
+    "palette": "acid green / tangerine / ultraviolet / dirty gold",
+    "tags": [
+      "twist",
+      "stair",
+      "torsion",
+      "wrong-gravity"
+    ]
+  },
+  {
+    "id": "inversion_chapel",
+    "title": "Inversion Chapel",
+    "math_trick": "sphere inversion and radial reciprocal scaling",
+    "wrong_physics": "distant architecture folds into nearby halos and near objects flee outward",
+    "shader_room_index": 2,
+    "mood": "a sacred little spatial ulcer that turns depth inside-out",
+    "palette": "ceremonial blue / hot magenta / bone-white / black-violet",
+    "tags": [
+      "inversion",
+      "portal",
+      "inside-out",
+      "chapel"
+    ]
+  },
+  {
+    "id": "soft_boolean_basilica",
+    "title": "Soft Boolean Basilica",
+    "math_trick": "smooth union, smooth subtraction, distance blending",
+    "wrong_physics": "columns melt into thresholds without ever becoming liquid",
+    "shader_room_index": 3,
+    "mood": "architecture grown from gum, bone, and procedural devotion",
+    "palette": "mint phosphor / peach / deep teal / cream-glow",
+    "tags": [
+      "smooth-min",
+      "boolean",
+      "architecture",
+      "blend"
+    ]
+  },
+  {
+    "id": "gravity_quilt_hall",
+    "title": "Gravity Quilt Hall",
+    "math_trick": "ray bending and sinusoidal gravity fields",
+    "wrong_physics": "down is quilted, not fixed; rays sag through invisible mood-fabric",
+    "shader_room_index": 4,
+    "mood": "a corridor where the floor has weather instead of hardness",
+    "palette": "red-orange / blue-violet / pollen yellow / storm-cyan",
+    "tags": [
+      "ray-bend",
+      "gravity",
+      "field",
+      "corridor"
+    ]
+  },
+  {
+    "id": "portal_mouth",
+    "title": "Portal Mouth",
+    "math_trick": "polar repetition, torus thresholds, radial phase bands",
+    "wrong_physics": "a doorway behaves like a hungry coordinate system",
+    "shader_room_index": 5,
+    "mood": "mouth, mirror, door, wound, logo, halo, oops",
+    "palette": "laser rainbow / black glass / white sparks / gummy red",
+    "tags": [
+      "portal",
+      "polar-repeat",
+      "torus",
+      "symbol"
+    ]
+  },
+  {
+    "id": "recursive_hotel",
+    "title": "Recursive Hotel",
+    "math_trick": "nested repetition and fractional cell recursion",
+    "wrong_physics": "rooms contain smaller rooms that contain the hallway you are currently in",
+    "shader_room_index": 6,
+    "mood": "haunted motel designed by a stack overflow",
+    "palette": "sodium yellow / cyan TV glow / motel red / mold green",
+    "tags": [
+      "recursion",
+      "rooms",
+      "repeat",
+      "backrooms"
+    ]
+  },
+  {
+    "id": "moire_fog_elevator",
+    "title": "Moir\u00e9 Fog Elevator",
+    "math_trick": "interference planes plus volumetric density accumulation",
+    "wrong_physics": "fog has scanlines and the elevator goes sideways through pattern pressure",
+    "shader_room_index": 7,
+    "mood": "an elevator shaft full of optical migraine incense",
+    "palette": "monochrome shimmer / violet haze / amber emergency light",
+    "tags": [
+      "moire",
+      "fog",
+      "volume",
+      "interference"
+    ]
+  },
+  {
+    "id": "noneuclidean_atrium",
+    "title": "Non-Euclidean Atrium",
+    "math_trick": "curvature warp, p-mod tiling, arch repetition",
+    "wrong_physics": "parallel corridors gossip until they become one corridor",
+    "shader_room_index": 8,
+    "mood": "atrium with too many valid vanishing points",
+    "palette": "turquoise marble / pink neon / smoky indigo / white gold",
+    "tags": [
+      "non-euclidean",
+      "curvature",
+      "atrium",
+      "arches"
+    ]
+  },
+  {
+    "id": "anti_physics_pool",
+    "title": "Anti-Physics Pool",
+    "math_trick": "signed wave surfaces and inverted reflection planes",
+    "wrong_physics": "water crawls upward and reflections cast shadows first",
+    "shader_room_index": 9,
+    "mood": "hotel pool after the laws of motion got high and quit",
+    "palette": "chlorine cyan / pool tile blue / sunset magenta / black wet stone",
+    "tags": [
+      "water",
+      "reflection",
+      "inversion",
+      "wave-sdf"
+    ]
+  },
+  {
+    "id": "symbolic_threshold",
+    "title": "Symbolic Threshold",
+    "math_trick": "SDF glyphs made from capsules, rings, and boolean cuts",
+    "wrong_physics": "symbols are structural; meaning has collision detection",
+    "shader_room_index": 10,
+    "mood": "a sigil that became load-bearing",
+    "palette": "white-hot glyphs / red velvet / obsidian / spectral rimlight",
+    "tags": [
+      "glyph",
+      "sigil",
+      "capsule-sdf",
+      "threshold"
+    ]
+  },
+  {
+    "id": "hyperbolic_backrooms_seed",
+    "title": "Hyperbolic Backrooms Seed",
+    "math_trick": "folded grid repetition plus exponential depth compression",
+    "wrong_physics": "the hallway is longer on the inside and meaner at the edges",
+    "shader_room_index": 11,
+    "mood": "the yellow wallpaper has learned topology and it is pissed",
+    "palette": "sickly yellow / green fluorescent hum / VHS violet / black mildew",
+    "tags": [
+      "hyperbolic",
+      "backrooms",
+      "depth-compression",
+      "liminal"
+    ]
+  }
+]
