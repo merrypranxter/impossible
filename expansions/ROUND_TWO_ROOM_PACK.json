@@ -1,0 +1,86 @@
+[
+  {
+    "id": "13_mobius_laundromat",
+    "title": "M\u00f6bius Laundromat",
+    "summary": "A fluorescent laundromat corridor whose washers rotate the coordinate system and return the camera mirrored.",
+    "core_trick": "mobius flip",
+    "status": "seed"
+  },
+  {
+    "id": "14_event_horizon_pool",
+    "title": "Event Horizon Municipal Pool",
+    "summary": "A public pool where the water surface is a black threshold and lane lines bend toward it.",
+    "core_trick": "event horizon surface",
+    "status": "seed"
+  },
+  {
+    "id": "15_recursive_motel_ice_machine",
+    "title": "Recursive Motel Ice Machine",
+    "summary": "A motel vending alcove repeated through modulo space until the ice machine becomes a portal engine.",
+    "core_trick": "modulo recursion",
+    "status": "seed"
+  },
+  {
+    "id": "16_church_basement_underwater",
+    "title": "Underwater Church Basement",
+    "summary": "A low-ceiling fellowship hall filled with impossible submerged air and sideways buoyancy.",
+    "core_trick": "sideways buoyancy",
+    "status": "seed"
+  },
+  {
+    "id": "17_infinite_school_hallway",
+    "title": "Infinite School Hallway of Late Bells",
+    "summary": "Lockers and tile floors repeat, scale, and misalign while the horizon refuses to stay level.",
+    "core_trick": "infinite repetition",
+    "status": "seed"
+  },
+  {
+    "id": "18_planetarium_stomach",
+    "title": "Planetarium Stomach",
+    "summary": "A dome room that maps stars onto digestive folds and makes celestial navigation feel biological.",
+    "core_trick": "biomorphic dome map",
+    "status": "seed"
+  },
+  {
+    "id": "19_anti_perspective_arcade",
+    "title": "Anti-Perspective Arcade",
+    "summary": "Cabinets grow larger as they recede, scanlines become architecture, and the vanishing point comes forward.",
+    "core_trick": "anti-perspective",
+    "status": "seed"
+  },
+  {
+    "id": "20_glass_elevator_inside_wall",
+    "title": "Glass Elevator Inside the Wall",
+    "summary": "A transparent elevator shaft embedded in a wall, moving through rooms that should not fit there.",
+    "core_trick": "interior impossibility",
+    "status": "seed"
+  },
+  {
+    "id": "21_fungal_boiler_room",
+    "title": "Fungal Boiler Room",
+    "summary": "Industrial pipes softened by mycelial SDF growth, steam that behaves like memory fog.",
+    "core_trick": "organic-industrial blend",
+    "status": "seed"
+  },
+  {
+    "id": "22_sigil_drain_atrium",
+    "title": "Sigil Drain Atrium",
+    "summary": "A grand atrium whose floor drain is a polar-coordinate sigil pulling walls inward.",
+    "core_trick": "polar attractor",
+    "status": "seed"
+  },
+  {
+    "id": "23_black_sun_observatory",
+    "title": "Black Sun Observatory",
+    "summary": "A raymarched observatory where the telescope looks at a sun-shaped absence that lights the room backwards.",
+    "core_trick": "negative light source",
+    "status": "seed"
+  },
+  {
+    "id": "24_hyperbolic_playplace",
+    "title": "Hyperbolic Fast-Food Playplace",
+    "summary": "Plastic tubes and ball pits arranged with hyperbolic scale; every crawl tunnel contains more room than the outside.",
+    "core_trick": "hyperbolic scale",
+    "status": "seed"
+  }
+]

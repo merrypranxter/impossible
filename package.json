@@ -1,0 +1,23 @@
+{
+  "name": "impossible",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Raymarched worlds with wrong physics: SDF liminal architecture, recursive rooms, warped gravity, soft boolean portals.",
+  "scripts": {
+    "open": "python3 -m http.server 5173",
+    "serve": "python3 -m http.server 5173",
+    "note": "echo 'No build required. Open index.html, or run npm run serve and visit http://localhost:5173/'"
+  },
+  "keywords": [
+    "glsl",
+    "webgl2",
+    "raymarching",
+    "sdf",
+    "shader-art",
+    "liminal",
+    "non-euclidean",
+    "procedural-art",
+    "wrong-physics"
+  ],
+  "license": "MIT"
+}

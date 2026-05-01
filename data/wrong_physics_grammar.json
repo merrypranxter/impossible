@@ -1,0 +1,41 @@
+{
+  "repo": "impossible",
+  "system": "raymarched_worlds_with_wrong_physics",
+  "core_loop": [
+    "pick one spatial lie",
+    "encode it as a coordinate transform, distance operation, or ray deformation",
+    "make the room architecture obey the lie",
+    "make lighting/fog reveal the lie",
+    "name the room like a haunted math location"
+  ],
+  "wrong_physics_axes": {
+    "gravity": [
+      "down is curved",
+      "down is local",
+      "down is a color channel",
+      "down arrives late"
+    ],
+    "distance": [
+      "near/far inversion",
+      "recursive compression",
+      "folded repeats",
+      "nonlinear ray steps"
+    ],
+    "matter": [
+      "soft booleans",
+      "melted solids",
+      "semiotic collision",
+      "volume fog with structure"
+    ],
+    "camera": [
+      "autopilot possession",
+      "FOV breathing",
+      "mouse parallax as possession"
+    ],
+    "symbol": [
+      "portals behave like mouths",
+      "glyphs become load-bearing walls",
+      "rooms are rituals"
+    ]
+  }
+}
